@@ -1,0 +1,5 @@
+{
+  "name": "extism",
+  "sdk": "go",
+  "engineVersion": "v0.11.0"
+}
